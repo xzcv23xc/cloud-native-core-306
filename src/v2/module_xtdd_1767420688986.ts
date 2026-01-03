@@ -1,0 +1,1 @@
+const util_xtdd = (d: any) => d;
